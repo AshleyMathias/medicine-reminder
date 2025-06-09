@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/yourusername/medicine-reminder/python-app.yml?branch=main)](https://github.com/AshleyMathias/medicine-reminder-app/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/AshleyMathias/medicine-reminder/python-app.yml?branch=main)](https://github.com/AshleyMathias/medicine-reminder-app/actions)
 [![Issues](https://img.shields.io/github/issues/AshleyMathias/medicine-reminder)](https://github.com/AshleyMathias/medicine-reminder/issues)
 [![Contributors](https://img.shields.io/github/contributors/AshleyMathias/medicine-reminder)](https://github.com/AshleyMathias/medicine-reminder/graphs/contributors)
 
