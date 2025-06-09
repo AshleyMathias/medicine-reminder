@@ -6,6 +6,12 @@
 [![Issues](https://img.shields.io/github/issues/yourusername/medicine-reminder-app)](https://github.com/yourusername/medicine-reminder-app/issues)
 [![Contributors](https://img.shields.io/github/contributors/yourusername/medicine-reminder-app)](https://github.com/yourusername/medicine-reminder-app/graphs/contributors)
 
+---
+
+![Medicine Reminder Screenshot](Screenshot1.png)
+
+----
+
 A desktop application built with Python to help users manage medicine reminders efficiently. The app allows users to add, view, delete, and export medication schedules, with alert notifications and theme toggling for improved user experience.
 
 ---
@@ -38,3 +44,51 @@ A desktop application built with Python to help users manage medicine reminders 
    ```bash
    git clone https://github.com/yourusername/medicine-reminder-app.git
    cd medicine-reminder-app
+   ```
+2. Create and activate a virtual environment (optional but recommended):
+
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+3. Install dependencies:
+
+   pip install -r requirements.txt
+
+4. Run the application:
+   main.py
+
+---
+
+### File Structure
+
+medicine_reminder_app/
+├── main.py             # Main application entry and navigation
+├── add_reminder.py     # UI for adding reminders
+├── view_reminders.py   # UI for viewing, deleting, and exporting reminders
+├── database.py         # Database connection and queries
+├── reminders.db        # SQLite database file (auto-created)
+├── requirements.txt    # Python dependencies
+├── README.md           # Project documentation
+
+---
+
+### Usage:
+- Launch the app using python main.py.
+- Use the Add Reminder page to input new medication reminders.
+- View, delete, or export your reminders on the View Reminders page.
+- Toggle between light and dark themes using the theme switcher.
+
+---
+
+### 🙋‍♀️ About the Developer
+- Ashley Mathias: 
+- Python Developer & AI Enthusiast
+- Linkedin: ashleymathias10, Github: Ashley Mathias
+
+---
+
+<p align="center">
+  Built with 💻 and ☕ by <strong>Ashley Mathias</strong>
+</p>
+
+
